@@ -1,5 +1,5 @@
 # Natural-Language-Processing-with-Deep-Learning-CS224n-Winter-2020-Solutions
-Hi everyone, these are my solutions for coding parts of CS224n: Natural Language Processing with Deep Learning, Winter 2020, offered by Stanford.Thanks to people at Stanford for making the course resources freely available to everyone.
+Hi everyone, these are my solutions for coding parts of [CS224n: Natural Language Processing with Deep Learning, Winter 2020](http://web.stanford.edu/class/cs224n/index.html#schedule), offered by Stanford.Thanks to people at Stanford for making the course resources freely available to everyone.
 
 ### [Assignment 1](http://web.stanford.edu/class/cs224n/assignments/a1_preview/exploring_word_vectors.html). Exploring Word Vectors (Done)
 
