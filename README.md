@@ -11,4 +11,6 @@ Hi everyone, these are my solutions for coding parts of [CS224n: Natural Languag
 
 ### [Assignment 5](https://github.com/saha0073/Natural-Language-Processing-with-Deep-Learning-CS224n-Winter-2020-Solutions/blob/master/a5/a5.pdf). Character-based convolutional encoder for NMT & Character-based LSTM decoder for NMT (Done)
 
+If you have any questions feel free to send an email to [saha0073@umn.edu](mailto:saha0073@umn.edu)
+
 Happy learning!
